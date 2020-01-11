@@ -15,7 +15,6 @@ end
 
 phrase = "Do A Barrel Roll!"
 def any_phrase(phrase)
-  status = "Do A Barrel Roll"
   puts "#{phrase}"
 end   
   
