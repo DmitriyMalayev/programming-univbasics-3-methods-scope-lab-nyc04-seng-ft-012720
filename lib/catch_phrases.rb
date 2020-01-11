@@ -1,4 +1,4 @@
-$phrase = "mario"
+$phrase = "Mario"
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
