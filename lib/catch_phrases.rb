@@ -13,7 +13,7 @@ def link
   puts status = "It's Dangerous To Go Alone! Take This." 
 end 
 
-phrase = "Do A Barrell Roll!"
+phrase = "Do A Barrell Roll"
 def any_phrase(phrase)
   puts status = "Do A Barrel Roll #{phrase}!"
 end   
