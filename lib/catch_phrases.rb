@@ -14,6 +14,7 @@ def link
 end 
 
 def any_phrase(phrase)
-  puts = "Do A Barrel Roll #{phrase}!\n"
+  status = "Do A Barrel Roll! \n"  
+  puts = "#{phrase}"
 end   
   
